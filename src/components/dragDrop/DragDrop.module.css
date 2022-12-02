@@ -1,0 +1,11 @@
+.drop_area {
+    width: 100vh;
+    height: 200px;
+    overflow: hidden;
+}
+
+.drop_zone {
+    width: 100vh;
+    height: 200px;
+    overflow: hidden;
+}

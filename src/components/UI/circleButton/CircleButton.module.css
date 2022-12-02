@@ -1,0 +1,12 @@
+.curcle__button {
+   padding: 19px;
+   width: 70px;
+   height: 70px;
+}
+
+.button__container__circle {
+   width: 32px;
+   height: 32px;
+   background-color: white;
+   border-radius: 50%;
+}
